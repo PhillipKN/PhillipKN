@@ -1,6 +1,7 @@
 ### Hi there, I'm Phillip 👋
 
-[![LinkedIN Follow](https://www.linkedin.com/?trk=public_profile_nav-header-logo)](https://www.linkedin.com/in/phillip-heita/)
+<br />
+<br />
 
 ## I'm a Physicist turned Data Scientist!!
 
