@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Phillip's GitHub Stats" src="https://github-readme-stats.PhillipKN.vercel.app/api?username=PhillipKN&show_icons=true&hide_border=true" />
+  <img align="left" alt="Phillip's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PhillipKN&show_icons=true&hide_border=true" />
 
 </details>
 
