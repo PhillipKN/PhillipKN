@@ -5,7 +5,7 @@
 ## I'm a Physicist turned Data Scientist!!
 
 - 🔭 I write on Medium with a focus on data science, risk management and Fintech: [Medium Blog][blog]!
-- 🌱 My current learning initiatives are focused on data science, finance, credit risk, and front-end web development
+- 🌱 My current learning initiatives are focused on data science, credit risk, fintech and software development
 - ⚡ Fun fact: I love to play soccer and seeing new places
 
 ### Connect with me:
