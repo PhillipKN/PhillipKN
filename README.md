@@ -6,7 +6,6 @@
 
 - 🔭 I write on Medium with a focus on data science, risk management and Fintech: [Medium Blog][blog]!
 - 🌱 My current learning initiatives are focused on data science, credit risk, fintech and software development
-- ⚡ Fun fact: I love to play soccer and seeing new places
 
 ### Connect with me:
 
