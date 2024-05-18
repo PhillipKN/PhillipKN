@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Physicist turned Data Scientist!!
+## I'm a Physicist in finance
 
 - 🔭 I write on Medium with a focus on data science, risk management and Fintech: [Medium Blog][blog]!
 - 🌱 My current learning initiatives are focused on data science, credit risk, fintech and software development
